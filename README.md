@@ -38,7 +38,7 @@ Our sales journey begins in January 2025 with $11.1M and shows a steady upward t
 - Inventory management during peak months
 - Marketing campaign effectiveness
 
-![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
+![Monthly Revenue Trend](screenshots/1.png)
 *Figure 1: Monthly revenue shows growth trajectory with July peak and October decline*
 
 ---
@@ -56,7 +56,7 @@ Store P155 emerges as the undisputed champion, generating **$16.4 million**—mo
 
 **The Opportunity**: If we can replicate P155's success factors across other stores, even a 20% improvement in underperforming stores could add millions in revenue.
 
-![Store Revenue Comparison](screenshots/store_revenue_bar.png)
+![Store Revenue Comparison](screenshots/2.png)
 *Figure 2: Store P155 dominates with $16.4M, more than double the next best performer*
 
 ---
@@ -74,7 +74,7 @@ Our product portfolio tells a story of specialization and high-value transaction
 - Recurring revenue streams
 - High customer lifetime value
 
-![Top Products Revenue](screenshots/top_10_products.png)
+![Top Products Revenue](screenshots/3.png)
 *Figure 3: Top 10 products generate $10M, led by diabetes management solutions*
 
 ---
@@ -98,7 +98,7 @@ Sunday emerges as the strongest sales day ($18.3M), while Friday is the weakest 
 - Friday may be impacted by weekend planning or reduced foot traffic
 - Opportunity to boost Friday sales through targeted promotions
 
-![Revenue Heatmap](screenshots/revenue_heatmap_day_hour.png)
+![Revenue Heatmap](screenshots/4.png)
 *Figure 4: Heatmap reveals evening hours and Sunday as peak sales periods*
 
 ---
@@ -148,7 +148,7 @@ Our 130 pharmacists drive the customer experience. The analysis reveals:
 - Others show declining trends requiring support or training
 - Store-pharmacist combinations reveal performance synergies
 
-![Pharmacist Performance](screenshots/pharmacist_performance.png)
+![Pharmacist Performance](screenshots/5.png)
 *Figure 5: Individual pharmacist performance trends reveal growth opportunities*
 
 ---
@@ -158,7 +158,7 @@ Our 130 pharmacists drive the customer experience. The analysis reveals:
 ### Q1: "What's our total revenue and how is it trending?"
 **Answer**: $119.4M over 10 months, with a peak in July ($13.0M) and a decline in October ($11.6M). Overall growth trajectory is positive, but October decline needs investigation.
 
-![Monthly Revenue](screenshots/monthly_revenue_trend.png)
+![Monthly Revenue](screenshots/1.png)
 
 ---
 
@@ -168,7 +168,7 @@ Our 130 pharmacists drive the customer experience. The analysis reveals:
 - **Top 3**: P155, P227 ($7.4M), P031 ($6.8M)
 - **Opportunity**: Significant performance gap suggests replication potential
 
-![Store Performance](screenshots/store_revenue_bar.png)
+![Store Performance](screenshots/2.png)
 
 ---
 
@@ -180,7 +180,7 @@ Our 130 pharmacists drive the customer experience. The analysis reveals:
 
 Chronic disease management products dominate, indicating strong recurring revenue.
 
-![Top Products](screenshots/top_10_products.png)
+![Top Products](screenshots/3.png)
 
 ---
 
@@ -192,7 +192,7 @@ Chronic disease management products dominate, indicating strong recurring revenu
 
 Staffing and promotions should align with these patterns.
 
-![Time Patterns](screenshots/revenue_heatmap_day_hour.png)
+![Time Patterns](screenshots/4.png)
 
 ---
 
@@ -223,21 +223,21 @@ These require tight inventory management and automated reordering.
 - Pharmacists needing support or training
 - Store-pharmacist performance synergies
 
-![Pharmacist Trends](screenshots/pharmacist_monthly_trends.png)
+![Pharmacist Trends](screenshots/5.png)
 
 ---
 
 ### Q8: "What's the price distribution across product categories?"
 **Answer**: Item classes ZMDN and ZCOS show wide price variability (high-value specialty medications), while others remain consistently low. This suggests distinct pricing strategies across categories.
 
-![Price Distribution](screenshots/price_distribution_boxplot.png)
+![Price Distribution](screenshots/6.png)
 
 ---
 
 ### Q9: "How do discounts impact total sales?"
 **Answer**: Small discounts dominate the transaction volume, but occasional large discounts can drive high sales. This suggests selective, strategic discounting may be more effective than blanket promotions.
 
-![Discount Impact](screenshots/discount_scatter.png)
+![Discount Impact](screenshots/7.png)
 
 ---
 
@@ -247,7 +247,7 @@ These require tight inventory management and automated reordering.
 - Marketing budget distribution
 - Strategic focus areas
 
-![Category Revenue](screenshots/category_pie_chart.png)
+![Category Revenue](screenshots/8.png)
 
 ---
 
@@ -257,7 +257,7 @@ These require tight inventory management and automated reordering.
 - Stores with declining performance
 - Seasonal patterns by location
 
-![Store Growth Trends](screenshots/store_growth_trends.png)
+![Store Growth Trends](screenshots/9.png)
 
 ---
 
@@ -300,31 +300,31 @@ These require tight inventory management and automated reordering.
 
 ### 1. Monthly Revenue Trend
 Shows the growth trajectory with July peak and October decline.
-![Monthly Revenue](screenshots/monthly_revenue_trend.png)
+![Monthly Revenue](screenshots/1.png)
 
 ### 2. Store Performance Comparison
 Reveals P155's dominance and identifies underperforming stores.
-![Store Revenue](screenshots/store_revenue_bar.png)
+![Store Revenue](screenshots/2.png)
 
 ### 3. Top Products Analysis
 Highlights best-selling products and revenue concentration.
-![Top Products](screenshots/top_10_products.png)
+![Top Products](screenshots/3.png)
 
 ### 4. Price Distribution by Category
 Shows pricing strategies and product category diversity.
-![Price Distribution](screenshots/price_distribution_boxplot.png)
+![Price Distribution](screenshots/6.png)
 
 ### 5. Discount Impact Analysis
 Reveals relationship between discounts and sales volume.
-![Discount Impact](screenshots/discount_scatter.png)
+![Discount Impact](screenshots/7.png)
 
 ### 6. Revenue Heatmap (Day × Hour)
 Identifies peak sales periods for operational optimization.
-![Revenue Heatmap](screenshots/revenue_heatmap_day_hour.png)
+![Revenue Heatmap](screenshots/4.png)
 
 ### 7. Category Revenue Contribution
 Shows revenue distribution across product categories.
-![Category Revenue](screenshots/category_pie_chart.png)
+![Category Revenue](screenshots/8.png)
 
 ### 8. Store Growth Trends
 Faceted view of month-over-month performance by store.
