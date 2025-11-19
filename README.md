@@ -328,9 +328,9 @@ Shows revenue distribution across product categories.
 
 ### 8. Store Growth Trends
 Faceted view of month-over-month performance by store.
-![Store Growth](screenshots/store_growth_trends.png)
+![Store Growth](screenshots/9.png)
 
 ### 9. Pharmacist Performance
 Individual performance trends and top performers.
-![Pharmacist Performance](screenshots/pharmacist_performance.png)
+![Pharmacist Performance](screenshots/5.png)
 
