@@ -12,8 +12,6 @@
 3. [Key Business Questions Answered](#key-business-questions-answered)
 4. [Performance Metrics](#performance-metrics)
 5. [Visual Analytics](#visual-analytics)
-6. [Strategic Recommendations](#strategic-recommendations)
-7. [Technical Details](#technical-details)
 
 ---
 
