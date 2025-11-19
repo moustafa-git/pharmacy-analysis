@@ -324,7 +324,7 @@ Identifies peak sales periods for operational optimization.
 
 ### 7. Category Revenue Contribution
 Shows revenue distribution across product categories.
-![Category Revenue](screenshots/8.png)
+![Category Revenue](screenshots/6.png)
 
 ### 8. Store Growth Trends
 Faceted view of month-over-month performance by store.
